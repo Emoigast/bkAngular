@@ -1,0 +1,6 @@
+mkdir "project name"
+cd "project name"
+ng new frontend --skip-tests
+ng serve -o
+rm -rf .git (inside frontend folder)
+Source Control -> Initialize Repository (ctrl shift G)
